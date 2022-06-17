@@ -10,7 +10,7 @@ int qty;
 
 struct orders{
 char customer[50];
-char date[50];
+char date[50]; 
 int numofItems;
 struct items itm[50];
 };
